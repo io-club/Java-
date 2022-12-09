@@ -1,0 +1,74 @@
+{
+    "A02":
+    {
+         "Category_Name":"Electronic",
+        "CategoryMap":
+        {
+
+            "B000":
+            {
+                "Features":"Computer",
+                "FeatureMap":
+                {
+                    "C000":
+                    {
+                        "Category_Name":"Electronic",
+                        "Features":"Computer",
+                        "Name":"Laptop",
+                        "Price":"6000",
+                        "Num_Sum":"200",
+                        "Numb_Comity":"02000000",
+                        "Color":"Black",
+                        "Classify":"Normal"
+                    },
+                    "C001":
+                    {
+                        "Name":"DesktopMachine"
+                    },
+                    "C002":
+                    {
+                        "Name":"All_In_One"
+                    },
+                    "C003":
+                    {
+                        "Name":"TableComputer"
+                    }
+                }
+            },
+            "B001":
+            {
+                "Features":"MobilePhone"
+            },
+            "B002":
+            {
+                "Features":"EarPhone"
+            },
+            "B003":
+            {
+                "Features":"MobileHardDisk"
+            },
+            "B004":
+            {
+                "Features":"BlueTooth",
+                "FeatureMap":
+                {
+                    "C000":
+                    {
+                        "Name":"BlueToothPhone"
+                    },
+                    "C001":
+                    {
+                        "Name":"BlueToothLaptop"
+                    },
+                    "C002":
+                    {
+                        "Name":"BlueToothWatch"
+                    }
+                }
+            }
+        }
+
+    }
+}
+
+
